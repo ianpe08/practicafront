@@ -1,0 +1,75 @@
+    body {
+        background-color:aliceblue;
+    }
+    h1 {
+        text-align: center;
+        font-size: 50px;
+        font-family: sans-serif;
+    }
+    span {
+        color: red;
+    }
+    .parentesis {
+        color:#919191
+    }
+    .txt1div {
+        color: black;
+        max-width: 600px;
+        text-align: justify;
+        margin-left: 15%;
+    }
+    .txt1 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .txt1img {
+        display: flex;
+        gap: 150px; 
+    }
+    img {
+        align-items: right;
+        height: fit-content;
+        width: 300px;
+    }
+    p {
+        line-height: 1.4;
+        font-size: 20px;
+        text-indent: 20px;
+    }
+    h2 {
+        font-style:italic;
+        text-decoration: underline;
+        margin-left: 7%;
+    }
+    .txt2int {
+        max-width: 600px;
+    }
+    .txt2 {
+        text-align: justify;
+        margin-left: 15%;
+        display: flex;
+        gap: 150px; 
+    }
+    .mapa1 {
+        margin-right: 25px;
+    }
+        li {
+        line-height: 1.4;
+        font-size: 20px;
+        text-indent: 20px;
+        }
+    .lis1 {
+        text-align: justify;
+        max-width: 600px;
+        margin-left: 15%;
+    }
+    .lis2 {
+        text-align: justify;
+        max-width: 600px;
+        margin-left: 15%;
+    }
+    .txt3 {
+        text-align: justify;
+        max-width: 600px;
+        margin-left: 15%;
+    }
