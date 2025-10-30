@@ -28,6 +28,7 @@
         color: #FFFADD;
         padding: 0;
         margin: 0;
+        text-indent: 20px;
     }
     nav {
         position: sticky;
@@ -73,6 +74,7 @@
         margin: 0%;
         padding: 0%;
         margin-right: 20px;
+        text-indent: 20px;
     }
     .txtnav-sticky:hover {
         color: #6A8042;
@@ -80,14 +82,17 @@
     a:hover {
         text-decoration: underline;
         text-decoration-color: #6A8042;
+        transform: scale(1.1);
     }
     a {
         text-decoration-color: #FFFADD;
         text-decoration: none;
+        text-indent: 20px;
     }
     body {
         background-color:#FFFADD;
         margin: 0%;
+        text-indent: 20px;
     }
     .parentesis {
         color:#919191
@@ -101,6 +106,7 @@
     .txt1 {
         margin-top: 5px;
         margin-bottom: 5px;
+        text-indent: 20px;
     }
     .txt1img {
         display: flex;
@@ -115,7 +121,7 @@
     p {
         line-height: 1.4;
         font-size: 20px;
-        text-indent: 20px;
+        text-indent: 0px;
     }
     h2 {
         font-style:italic;
@@ -134,6 +140,7 @@
         margin-left: 15%;
         display: flex;
         gap: 150px; 
+        text-indent: 20px;
     }
     .mapa1 {
         margin-right: 25px;
@@ -158,6 +165,7 @@
         text-align: justify;
         max-width: 600px;
         margin-left: 15%;
+        text-indent: 20px;
     }
     footer {
         background-color: #6A8042;
@@ -169,28 +177,38 @@
         margin: 0;
         padding: 5px;
     }
-    .cajafooter {
+    .caja-footer {
         display: flex;
         justify-content: space-around;
-        height: 30px;
+        justify-content: center;
+        align-items: center;
+        gap: 20%;
+        margin-top: 25px;
+        padding-bottom: 10px;
     }
     .redes-footer1 {
         background-color: #0E3006;
-        padding: 2px;
-        margin: 1px;
+        padding: 5px 10px;
+        margin: 5px;
         border-radius: 10px;
+        width: fit-content; 
+        display: flex;
     }
     .redes-footer2 {
         background-color: #0E3006;
-        padding: 2px;
-        margin: 1px;
+        padding: 5px 10px;
+        margin: 5px;
         border-radius: 10px;
+        width: fit-content;
+        display: flex;
     }
     .redes-footer3 {
         background-color: #0E3006;
-        padding: 2px;
-        margin: 1px;
+        padding: 5px 10px;
+        margin: 5px;
         border-radius: 10px;
+        width: fit-content;
+        display: flex;
     }
     .icono-flotante {
         position: fixed;
