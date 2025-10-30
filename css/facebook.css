@@ -1,0 +1,39 @@
+    .txt1 {
+        align-content: center;
+        background-color: #FFE787;
+        margin: 30%;
+        margin-top: 150px;
+        margin-bottom: 30px;
+        border-radius: 30px;
+    }
+    h2 {
+        text-align: center;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    body {
+        background-color: #FFFADD;
+    }
+    .txt2 {
+        background-color: #FFE787;
+        align-content: center;
+        margin: 38%;
+        margin-top: 10px;
+        border-radius: 30px;
+    }
+    h3 {
+        text-align: center;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h3:hover {
+        transform: scale(1.1);
+    }
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    a:hover {
+        text-decoration: underline;
+        transform: scale(1.1);
+    }
