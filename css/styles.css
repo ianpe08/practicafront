@@ -1,0 +1,25 @@
+/*      INICIO HEADER       */
+header {
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0;
+}
+h1 {
+    font-family: lato;
+    font-size: 56px;
+    text-transform: uppercase;
+}
+/*      INICIO INTRODUCCION        */
+.text-introduccion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    width: 40vw;
+}
+/*   CARDS   */
+body {
+    background-color: lightblue;
+}
